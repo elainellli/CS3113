@@ -139,8 +139,8 @@ void LevelC::initialise()
     m_state.player->m_animation_time = 0.0f;
     m_state.player->m_animation_cols = 6;
     m_state.player->m_animation_rows = 8;
-    m_state.player->set_height(0.6f);
-    m_state.player->set_width(0.4f);
+    m_state.player->set_height(1.0f);
+    m_state.player->set_width(0.6f);
 
 
 
